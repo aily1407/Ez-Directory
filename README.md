@@ -30,4 +30,4 @@ To clone, open your terminal and enter the following command
 
 This code can be downloaded and copied without any licenses.
 
-# Screenshot
+# Screenshots

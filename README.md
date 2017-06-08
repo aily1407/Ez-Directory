@@ -1,7 +1,7 @@
 # Ez-Directory
 This is a repository for Ez-Directory mobile android application.
-
-The function of this application is to save personal data such as contacts information and picture . Choose a picture to upload and save employee information (Name, Phone Number, E-mail).
+This application is very useful for user to use in their daily life .
+Its has simple interface and be understand by any level of age.
 
 # Modules
 This application help user to upload picture and save contact that have name, number phone and email.
@@ -16,5 +16,8 @@ Firebase Database API
 Clone or download this github repository
 To clone, open your terminal and enter the following command
    $ git clone https://github.com/kamarulbaharin/Ez-Directory.git
+
+# License
+This code can be downloaded and copied without any licenses.
 
 # Screenshot

@@ -15,6 +15,6 @@ Firebase Database API
 # Installation
 Clone or download this github repository
 To clone, open your terminal and enter the following command
-   $ git clone https://github.com/minghan1219/PersonalFinanceAssistant.git
+   $ git clone https://github.com/kamarulbaharin/Ez-Directory.git
 
 # Screenshot

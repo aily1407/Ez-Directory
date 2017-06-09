@@ -41,4 +41,13 @@ This code can be downloaded and copied without any licenses.
 ![3](https://user-images.githubusercontent.com/29139075/26948441-f294d284-4cc8-11e7-8f6c-277dca0cc6c8.jpg)
 ![4](https://user-images.githubusercontent.com/29139075/26948443-f2969baa-4cc8-11e7-8ea9-aec24e3931a6.jpg)
 
+# Suggestions
+
+• Should have login page on this mobile application.
+
+• Need to put more functions rather than upload picture and save contacts.
+
+• Can implement Firebase Database and Firebase Authentication on this mobile application to record user's data.
+
+
 

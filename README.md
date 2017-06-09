@@ -10,13 +10,16 @@ Its has simple interface and be understand by any level of age.
 
 •	The picture that upload to server will store as many user upload.
 
-•	The detail that user save also will keep store in application’s database.
+•	The detail that user save also will keep store in application’s storage.
 
 •	This application can be use by any user without user authentication or security features.
 
+•	As long as this application use the given link, all the picture that  upload will save in the same account firebase.
+
+
 # API Reference
 
-Firebase Database API
+Firebase Storage API
 
 # Installation
 
